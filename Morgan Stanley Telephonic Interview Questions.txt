@@ -1,0 +1,29 @@
+			Morgan Stanley Telephonic Interview Questions
+
+1.what is abstraction?
+2.Apart from abstract class how we can achieve abstraction?
+3.give an example of overloading and overriding?
+4.differnt types of exception supported by java?
+5.FileNotFound is checked or unchecked exception?
+6.difference between array and arraylist?
+7.Difference between arraylist and linkedlist?
+8.what is the parent of all the classes?
+9 what are the methods belong to object class?
+10.what are the different types of math supported by java?
+11.what is hashmap?
+12.what are the other types of map?
+13.what is linkedhash map?
+14.Suppose your having a student object containing studid, name how will you sort the student object(any custom object) on the basis of studid in treemap?
+15.Difference between comparable and comparator?
+16.What are the possible ways to create thread in java?
+17.Which is the better way and why?
+18.Can you start same thread twice?
+19.If you are creating a thread class then how will you execute the thread method?
+20.Difference between .start() and .run()?
+21.Difference between invoking a run() through .start() and directly calling run() in thread?
+22.How many different types of join supported by database?
+23.What is self join?
+--How will you find the name of the student who secured maximum mark?
+    24.Consider a student table containing two columns Studname and marks.
+    25.Consider a student table containing four columns studname, mark1, mark2, mark3.(maximum total)
+26.Given a singly linkedlist how will you find the Kth element from the last?
